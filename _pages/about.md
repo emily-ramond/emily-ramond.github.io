@@ -6,7 +6,7 @@ subtitle: 🔹Data Science for Good 🔹
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fav_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Seattle, WA </p>
@@ -19,4 +19,3 @@ Hello, I'm Emily! I completed my undergraduate studies at HDSI in 2022, where I 
 
 Beyond academic and professional pursuits, I love crocheting, travel, snowboarding, and fostering cats. 
 
-Enjoy this AI generated photo of me ---->
